@@ -1,3 +1,16 @@
+
+body {
+    background-color: rgb(175, 173, 22);
+    font-size: 130%;
+  }
+
 h1 {
-    color:blue;
+    color: black;
+    text-align: center;
+}
+
+h4 {
+    font-style: italic;    
+    text-align: center;
+    font-size: 200px;
 }
